@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+
+# Build files
+build/
+dist/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs and runtime data
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Compiled files
+*.compiled.js
+
+# Dependencies
+package-lock.json

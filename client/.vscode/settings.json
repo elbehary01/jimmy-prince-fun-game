@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#0935c5"
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.enable": true,
+    "eslint.run": "onSave",
+    "eslint.validate": ["vue", "html", "javascript", "javascriptreact"]
+  }

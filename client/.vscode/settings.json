@@ -3,7 +3,7 @@
       "titleBar.activeBackground": "#0935c5"
     },
     "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true
+        "source.fixAll.eslint": "explicit"
     },
     "eslint.enable": true,
     "eslint.run": "onSave",

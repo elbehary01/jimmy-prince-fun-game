@@ -29,7 +29,7 @@ app.use(
 );
 
 app.get('/', (req, res) => {
-  res.send('Hello from MERN stack');
+  res.send('Hello from MERN stackkkkkk');
 });
 
 app.listen(PORT, () => {
